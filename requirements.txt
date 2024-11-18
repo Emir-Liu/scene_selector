@@ -1,2 +1,9 @@
 pandas
 openpyxl
+
+# embedding model
+langchain_community
+sentence-transformers
+
+# llm api
+langchain_openai
